@@ -1,5 +1,5 @@
 # RediStructHash
-A Go File Which Can Automatically Convert Struct to Redis Hash
+Automatically converts Go struct to Redis hash
 
 ## About
 
